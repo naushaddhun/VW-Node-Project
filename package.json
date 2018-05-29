@@ -1,0 +1,29 @@
+{
+  "name": "shopify-express-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie": "^0.3.1",
+    "dotenv": "^5.0.1",
+    "env-cmd": "^8.0.2",
+    "express": "^4.16.3",
+    "gitignore": "^0.6.0",
+    "json-storage": "^2.1.1",
+    "localStorage": "^1.0.3",
+    "node-env-file": "^0.1.8",
+    "nonce": "^1.0.4",
+    "npm": "^6.1.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "shopify-api-node": "^2.14.0",
+    "tableify": "^1.1.0",
+    "write-json-file": "^2.3.0"
+  }
+}
